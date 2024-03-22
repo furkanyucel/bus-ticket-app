@@ -2,10 +2,6 @@
   line-height: 4rem;
 }
 
-input {
-  background-color: rgba(255, 255, 255, 0.3);
-}
-
 .homePageBanner img {
   background-size: cover;
   background-position: center;
@@ -14,11 +10,16 @@ input {
 }
 
 .bannerTextContainer {
-    position: absolute;
-    top: 50%;
-    left: 25%;
-    transform: translate(-50%, -50%);
-    color: white;
-    z-index: 2;
-  }
-  
+  padding:60px;
+  position: absolute;
+  top: 50%;
+  left: 55%;
+  right: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  z-index: 2;
+}
+
+.mainBannerBus {
+  position: relative;
+}

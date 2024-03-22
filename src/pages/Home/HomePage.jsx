@@ -9,7 +9,6 @@ const HomePage = () => {
     <Fragment>
       <Header />
       <HomePageBanner />
-      {/* <Inputs /> */}
       <Footer />
     </Fragment>
   );
