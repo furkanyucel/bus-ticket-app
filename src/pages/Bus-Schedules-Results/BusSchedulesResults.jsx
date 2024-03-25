@@ -1,5 +1,6 @@
 import { useSelector } from "react-redux";
 import Header from "../../layouts/Header/Header";
+import Footer from "../../layouts/Footer/Footer";
 import "./BusSchedulesResults.scss";
 import {
   Card,
@@ -101,6 +102,7 @@ const BusSchedulesResults = () => {
           </Card>
         ))}
       </div>
+      <Footer />
     </>
   );
 };

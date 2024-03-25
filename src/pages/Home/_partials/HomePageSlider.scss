@@ -1,0 +1,14 @@
+.homePageSlider {
+  padding: 20px;
+  .swiper {
+    height: 400px;
+  }
+
+  .swiper-slide {
+    img {
+      object-fit: cover;
+      width: 490px;
+      height: 330px;
+    }
+  }
+}

@@ -1,20 +1,19 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
-  filteredTickets: [], 
+    filteredTickets: [],
 };
 
 const ticketSlice = createSlice({
     name: 'tickets',
     initialState,
     reducers: {
-      searchTickets(state, action) {
-        state.filteredTickets = action.payload;
-        return state;
-      },
+        searchTickets(state, action) {
+            state.filteredTickets = action.payload;
+        },
     },
-  });
-  
+});
+
 
 export const { searchTickets } = ticketSlice.actions;
 
