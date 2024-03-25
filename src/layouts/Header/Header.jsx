@@ -1,22 +1,25 @@
-import "./Header.scss"
+import "./Header.scss";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <header className="absolute top-0 left-0 right-0 p-4">
       <div className="navMenu">
         <div>
-          <h1 className="logo">BiletNoktası</h1>
+          <Link to="/" className="logo">
+            BiletNoktası
+          </Link>
         </div>
         <nav>
           <ul>
             <li>
-              <a>Yardım</a>
+              <a href="#">Yardım</a>
             </li>
             <li>
-              <a>Üye Ol</a>
+              <a href="#">Üye Ol</a>
             </li>
             <li>
-              <a>Giriş Yap</a>
+              <a href="#">Giriş Yap</a>
             </li>
           </ul>
         </nav>

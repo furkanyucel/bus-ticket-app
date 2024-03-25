@@ -1,0 +1,48 @@
+.ticketResults {
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+  ul {
+    list-style: none;
+  }
+
+  .MuiCardMedia-root {
+    object-fit: contain;
+    width: 35%;
+  }
+
+  .MuiButtonBase-root {
+    display: flex;
+    padding: 20px;
+  }
+
+  .cardContentCities {
+    display: flex;
+    justify-content: center;
+
+    div:nth-child(2) {
+      margin-right: 10px;
+    }
+  }
+
+  .MuiTypography-root {
+    margin-right: 5px;
+  }
+  .cardDetails {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .cardPrice {
+    margin-top: 10px;
+    float: right;
+  }
+
+  //   .MuiCardContent-root{
+  //     display:flex;
+  //   }
+}

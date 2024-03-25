@@ -2,7 +2,7 @@ export const busData = [
   {
     "arrivetime": "07:00",
     "starttime": "00:15",
-    "price": "50,00 TL",
+    "price": "50,00",
     "name": "Özkaymak",
     "image": ".../istanbul_ankara.png",
     "startcity": "İstanbul",
@@ -13,7 +13,7 @@ export const busData = [
   {
     "arrivetime": "07:00",
     "starttime": "00:15",
-    "price": "50,00 TL",
+    "price": "50,00",
     "name": "Özkaymak",
     "image": ".../istanbul_ankara.png",
     "startcity": "İstanbul",
@@ -24,7 +24,7 @@ export const busData = [
   {
     "arrivetime": "09:30",
     "starttime": "02:45",
-    "price": "65,00 TL",
+    "price": "65,00",
     "name": "Metro Turizm",
     "image": ".../izmir_antalya.png",
     "startcity": "İzmir",
@@ -35,7 +35,7 @@ export const busData = [
   {
     "arrivetime": "10:45",
     "starttime": "04:30",
-    "price": "55,00 TL",
+    "price": "55,00",
     "name": "Kamil Koç",
     "image": ".../ankara_trabzon.png",
     "startcity": "Ankara",
@@ -46,7 +46,7 @@ export const busData = [
   {
     "arrivetime": "08:15",
     "starttime": "01:30",
-    "price": "60,00 TL",
+    "price": "60,00",
     "name": "Uludağ Turizm",
     "image": ".../adana_gaziantep.png",
     "startcity": "Adana",
@@ -57,7 +57,7 @@ export const busData = [
   {
     "arrivetime": "12:00",
     "starttime": "05:45",
-    "price": "70,00 TL",
+    "price": "70,00",
     "name": "Pamukkale",
     "image": ".../konya_kayseri.png",
     "startcity": "Konya",
@@ -68,7 +68,7 @@ export const busData = [
   {
     "arrivetime": "13:30",
     "starttime": "07:15",
-    "price": "45,00 TL",
+    "price": "45,00",
     "name": "Nilüfer Turizm",
     "image": ".../bursa_izmir.png",
     "startcity": "Bursa",
@@ -79,7 +79,7 @@ export const busData = [
   {
     "arrivetime": "15:00",
     "starttime": "08:45",
-    "price": "75,00 TL",
+    "price": "75,00",
     "name": "Süha Turizm",
     "image": ".../antalya_istanbul.png",
     "startcity": "Antalya",
@@ -90,7 +90,7 @@ export const busData = [
   {
     "arrivetime": "16:45",
     "starttime": "10:30",
-    "price": "80,00 TL",
+    "price": "80,00",
     "name": "Has Turizm",
     "image": ".../izmir_ankara.png",
     "startcity": "İzmir",
@@ -101,7 +101,7 @@ export const busData = [
   {
     "arrivetime": "18:30",
     "starttime": "12:15",
-    "price": "90,00 TL",
+    "price": "90,00",
     "name": "Varan Turizm",
     "image": ".../ankara_istanbul.png",
     "startcity": "Ankara",
@@ -112,7 +112,7 @@ export const busData = [
   {
     "arrivetime": "20:15",
     "starttime": "14:00",
-    "price": "95,00 TL",
+    "price": "95,00",
     "name": "Ulusoy Turizm",
     "image": ".../kayseri_ankara.png",
     "startcity": "Kayseri",

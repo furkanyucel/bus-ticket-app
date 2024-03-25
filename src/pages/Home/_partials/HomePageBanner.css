@@ -12,9 +12,9 @@
 .bannerTextContainer {
   padding:60px;
   position: absolute;
-  top: 50%;
-  left: 55%;
-  right: 50%;
+  top: 40%;
+  left: 50%;
+  /* right: 50%; */
   transform: translate(-50%, -50%);
   color: white;
   z-index: 2;
@@ -22,4 +22,16 @@
 
 .mainBannerBus {
   position: relative;
+}
+
+.searchInputs {
+  padding:60px;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  width:100%;
+  /* right: 50%; */
+  transform: translate(-50%, -50%);
+  color: white;
+  z-index: 2;
 }
